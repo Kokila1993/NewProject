@@ -6,6 +6,7 @@ public class EmployeeDetails {
 
 		System.out.println("Employee Salary :50000");
 		System.out.println("Employee age : 29");
+		System.out.println("Employee Mobile : 1234567890");
 		
 	}
 	
