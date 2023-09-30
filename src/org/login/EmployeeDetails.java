@@ -3,19 +3,12 @@ package org.login;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-<<<<<<< HEAD
 public class EmployeeDetails {
-=======
-		System.out.println("Employee Salary :50000");
 
-		System.out.println("Employee Age : 28");
-		System.out.println("Employee Mobile : 1234567809");
-
-		System.out.println("Employee age : 29");
-		System.out.println("Employee Mobile : 1234567890");
 		
-	}
->>>>>>> 81f8bf222f9a650d628dd9e49905807c3b552730
+		
+
+
 	public static void main(String[] args) {
 		int a[]=new int [5];
 		a[0]=10;
@@ -41,6 +34,14 @@ public class EmployeeDetails {
 		 
 		 System.out.println("set output without duplicate ");
 		System.out.println(s);
+		
+		System.out.println("Employee Salary :50000");
+
+		System.out.println("Employee Age : 28");
+		System.out.println("Employee Mobile : 1234567809");
+
+		System.out.println("Employee age : 29");
+		System.out.println("Employee Mobile : 1234567890");
 		 
 		
 	}
